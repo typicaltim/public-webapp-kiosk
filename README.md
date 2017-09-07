@@ -1,6 +1,7 @@
 # public-webapp-kiosk
 Script and related files that will configure a Windows 7 machine to become a basic Kiosk for a webapp.
 
+### Purpose
 The original purpose of this was to place a handful of machines in the public lobby of an organization so that visitors could utilize a webapp that required they fill out form data. We wanted it off the domain, with no login, and for visitors to only be able to access the webapp. If they tried to close the webapp and do other things, it would kick them back into the web app.
 
 ### Implementation
